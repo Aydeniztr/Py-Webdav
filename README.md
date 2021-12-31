@@ -33,5 +33,3 @@ This application is too user friendly there is even no costum argumants right no
 ## Notes
 
 On windows , if you run this application on command prompt or powershell colors don't gonna work because of the input method they are using is different They don't color input prints so they look weird but here is the windows version .
-```
-```
