@@ -25,7 +25,7 @@ $ python3 -m pip install -r requirements.txt
 ## Usage
 
 <p align="center"> 
-[![asciicast](https://asciinema.org/a/NpAkrZZZn5Z5F9MCsHEDWT3R1.svg)](https://asciinema.org/a/NpAkrZZZn5Z5F9MCsHEDWT3R1)
+<a href="https://asciinema.org/a/459383" target="_blank"><img src="https://asciinema.org/a/459383.svg" /></a>
 </p>
 
 This application is too user friendly there is even no costum argumants right now but I will add it as soon as possible.
