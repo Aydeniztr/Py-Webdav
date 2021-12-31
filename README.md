@@ -13,10 +13,10 @@
 
 ```console
 # clone the repo
-$ git clone https://github.com/
+$ git clone https://github.com/Aydeniztr/Py-Webdav
 
 # change the working directory to webserver
-$ cd webserver
+$ cd Py-Webdav
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
