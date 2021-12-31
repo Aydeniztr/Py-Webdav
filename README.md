@@ -24,8 +24,8 @@ $ python3 -m pip install -r requirements.txt
 
 ## Usage
 
-<p align="center">
-<img src="./images/usage.gif"/>
+<p align="center"> 
+/*<img src="./images/usage.gif"/>*/
 </p>
 
 This application is too user friendly there is even no costum argumants right now but I will add it as soon as possible.
