@@ -25,7 +25,7 @@ $ python3 -m pip install -r requirements.txt
 ## Usage
 
 <p align="center"> 
-/*<img src="./images/usage.gif"/>*/
+[![asciicast](https://asciinema.org/a/NpAkrZZZn5Z5F9MCsHEDWT3R1.svg)](https://asciinema.org/a/NpAkrZZZn5Z5F9MCsHEDWT3R1)
 </p>
 
 This application is too user friendly there is even no costum argumants right now but I will add it as soon as possible.
