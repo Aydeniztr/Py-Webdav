@@ -6,8 +6,6 @@ from colorama import Fore, Back, Style, init, deinit
 init()
 
 
-Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
-
 banner = '''
 
 @@@  @@@  @@@ @@@@@@@@ @@@@@@@  @@@@@@@   @@@@@@  @@@  @@@
