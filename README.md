@@ -27,7 +27,7 @@ $ python3 -m pip install -r requirements.txt
 This application is too user friendly there is even no costum argumants right now but I will add it as soon as possible.
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1c8a4MIzhVOTbnX_WKoko5TbjQ-ZBsB6j" width="460" height="460" />
+ ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </p>
 
 ## Notes
