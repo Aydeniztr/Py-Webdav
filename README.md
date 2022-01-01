@@ -37,7 +37,7 @@ On windows , if you run this application on command prompt or powershell colors 
 ## Screenshots
 
 <p align="center">
- <img src="https://media.discordapp.net/attachments/728923218001264684/926816630909063198/Screenshot_20220101-153751_Samsung_Internet.jpg" width="1000" height="1000" />
- <img src="https://media.discordapp.net/attachments/728923218001264684/926817224969318420/Screenshot_20220101-154035_Samsung_Internet.jpg" width="460" />
- <img src="https://media.discordapp.net/attachments/728923218001264684/926817291079925760/Screenshot_20220101-153935_Samsung_Internet.jpg" width="460" />
+ <img src="https://media.discordapp.net/attachments/728923218001264684/926816630909063198/Screenshot_20220101-153751_Samsung_Internet.jpg" width="500" height="500" />
+ <img src="https://media.discordapp.net/attachments/728923218001264684/926817224969318420/Screenshot_20220101-154035_Samsung_Internet.jpg" width="500" />
+ <img src="https://media.discordapp.net/attachments/728923218001264684/926817291079925760/Screenshot_20220101-153935_Samsung_Internet.jpg" width="500" />
  </p>
