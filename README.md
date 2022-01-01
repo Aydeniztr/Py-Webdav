@@ -26,7 +26,7 @@ $ python3 -m pip install -r requirements.txt
 This application is too user friendly there is even no costum argumants right now but I will add it as soon as possible.
 
 <p align="center">
-[![asciicast](https://asciinema.org/a/459383.svg)](https://asciinema.org/a/459383)
+<script id="asciicast-459383" src="https://asciinema.org/a/459383.js" async></script>
 </p>
 
 ## Notes
