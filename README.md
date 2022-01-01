@@ -36,6 +36,6 @@ On windows , if you run this application on command prompt or powershell colors 
 
 ## Screenshots
 
- <img src="https://media.discordapp.net/attachments/728923218001264684/926627861815779328/ezgif-2-b960fdba0b.gif" width="460" height="460" />
- <img src="https://media.discordapp.net/attachments/728923218001264684/926627861815779328/ezgif-2-b960fdba0b.gif" width="460" height="460" />
- <img src="https://media.discordapp.net/attachments/728923218001264684/926627861815779328/ezgif-2-b960fdba0b.gif" width="460" height="460" />
+ <img src="https://media.discordapp.net/attachments/728923218001264684/926816630909063198/Screenshot_20220101-153751_Samsung_Internet.jpg" width="460" height="460" />
+ <img src="https://media.discordapp.net/attachments/728923218001264684/926817224969318420/Screenshot_20220101-154035_Samsung_Internet.jpg" width="460" />
+ <img src="https://media.discordapp.net/attachments/728923218001264684/926817224969318420/Screenshot_20220101-154035_Samsung_Internet.jpg" width="460" />
