@@ -5,7 +5,6 @@ from colorama import Fore, Back, Style, init, deinit
 
 init()
 
-
 banner = '''
 
 @@@  @@@  @@@ @@@@@@@@ @@@@@@@  @@@@@@@   @@@@@@  @@@  @@@
