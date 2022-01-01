@@ -28,7 +28,6 @@ This application is too user friendly there is even no costum argumants right no
 
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1CUxrGQCLycjWMAcU3KT4sOhSdIFi4tUW" width="40" height="40" />
-<iframe src="https://drive.google.com/file/d/1c8a4MIzhVOTbnX_WKoko5TbjQ-ZBsB6j/preview" width="640" height="480" allow="autoplay"></iframe>
 </p>
 
 ## Notes
