@@ -26,7 +26,7 @@ $ python3 -m pip install -r requirements.txt
 This application is too user friendly there is even no costum argumants right now but I will add it as soon as possible.
 
 <p align="center">
-<a href="https://asciinema.org/a/459383" target="_blank"><img src="https://asciinema.org/a/459383.svg" /></a>
+<a href="https://asciinema.org/a/459383" target="_blank"><img src="https://media.discordapp.net/attachments/728923218001264684/926836444075532329/IMG_5188.png" /></a>
 </p>
 
 ## Notes
