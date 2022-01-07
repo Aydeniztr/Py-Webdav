@@ -27,7 +27,7 @@ to_exit = '''
 '''
 
 about = '''
-author: Ahmet Yiğit AYDENİZ
+author: Ahmet Yigit AYDENIZ
 
 •github:https://github.com/Aydeniztr
 •Website:https://www.aydeniz.tk
