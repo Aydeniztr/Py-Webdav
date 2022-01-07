@@ -32,12 +32,13 @@ author: Ahmet Yiğit AYDENİZ
 •github:https://github.com/Aydeniztr
 •Website:https://www.aydeniz.tk
  
-  • 🔭 I’m currently working on my own websit
-  • 🌱 I’m currently learning "c" and "sh"
-  • 👯 I’m looking to not collaborate on my projects
-  • 🤔 I’m looking for help with learning c++
-  • 💬 Ask me about linux,static-websites,python
-  • 📫 How to reach me : https://www.aydeniz.tk/chat.html
+  • I’m currently working on my own websit
+  • I’m currently learning "c" and "sh"
+  • I’m looking to not collaborate on my projects
+  • I’m looking for help with learning c++
+  • Ask me about linux,static-websites,python
+  • How to reach me : https://www.aydeniz.tk/chat.html
+  
 '''
 
 print(Fore.RED + banner+ Fore.WHITE + usg + Fore.WHITE + about)
