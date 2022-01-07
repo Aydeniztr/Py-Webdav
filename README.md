@@ -7,9 +7,6 @@
    ::.:  :::   : :: ::: :: : ::  :: :  :   :   : :    ::
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aydeniztr)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Installation
 
 • Installing via github 
