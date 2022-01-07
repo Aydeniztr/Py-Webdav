@@ -15,7 +15,7 @@
 # clone the repo
 $ git clone https://github.com/Aydeniztr/Py-Webdav
 
-# change the working directory to webserver
+# change the working directory to Py-Webdav
 $ cd Py-Webdav
 
 # install the requirements
