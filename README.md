@@ -7,7 +7,7 @@
    ::.:  :::   : :: ::: :: : ::  :: :  :   :   : :    ::
 ```
 
-<a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg"></a>https://img.shields.io/website?down_color=red&down_message=down&style=plastic&up_color=green&up_message=up&url=https%3A%2F%2Fwww.aydeniz.tk
+<a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg">
 
 
 ## Installation
