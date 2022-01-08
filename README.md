@@ -22,10 +22,6 @@ $ cd Py-Webdav
 $ python3 -m pip install -r requirements.txt
 ```
 
-## Notes
-
-On windows , if you run this application on command prompt or powershell colors don't gonna work on inputs because of the input method they are using is different They don't color input prints so they look weird but here is the windows version .
-
 ## Screenshots
 
 <p align="center">
