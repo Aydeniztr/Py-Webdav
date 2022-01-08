@@ -36,9 +36,25 @@ $ python3 -m pip install -r requirements.txt
 
 ## Screenshots
 
-<p align="center">
- <img src="https://media.discordapp.net/attachments/728923218001264684/926816630909063198/Screenshot_20220101-153751_Samsung_Internet.jpg" width="660"  height="510" />
- </p>
+```
+Directory listing for /
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  • requirements.txt
+  • hi.html
+  • meminfo
+  • passwd
+  • requirements.
+  • requirements.txt
+  • smkeyboard.flf
+  • Test.py
+  • Test2.py
+  • webserver.py
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```
 
 ## Usage
 
