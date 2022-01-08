@@ -28,7 +28,7 @@ This application is too user friendly there is even no costum argumants right no
 
 <p align="center">
 <br>
-<a href="https://asciinema.org/a/459383" target="_blank"><img src="https://media.discordapp.net/attachments/728923218001264684/929168201215000617/phonto.jpg" width="100"  height="400" /></a>
+<a href="https://asciinema.org/a/459383" target="_blank"><img src="https://media.discordapp.net/attachments/728923218001264684/929168201215000617/phonto.jpg" width="400"  height="100" /></a>
 <br>
 </p>
 
