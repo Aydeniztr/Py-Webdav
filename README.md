@@ -11,6 +11,14 @@
   <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg"> 
   <a target="_blank" href="https://www.aydeniz.tk/chat.html" title="my online chat"><img src="https://img.shields.io/badge/website%20-always%20online%20-green.svg">
 </p> 
+  <p align="center">
+  <a href="#Installation">Installation</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Usage">Usage</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Screenshots">Docker Notes</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
  
 ## Installation
 
