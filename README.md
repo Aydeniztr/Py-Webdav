@@ -61,7 +61,7 @@ Directory listing for /
 
 This application is too user friendly that there is even no costum argumants right now but I will add them as soon as possible.
 
-<p align="center">
+<p align="left">
 <br>
 <a href="https://asciinema.org/a/459383" target="_blank"><img src="https://media.discordapp.net/attachments/728923218001264684/929168201215000617/phonto.jpg" width="300"  height="75" /></a>
 <br>
