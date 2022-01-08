@@ -17,7 +17,6 @@
   <a href="#Usage">Usage</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Screenshots">screenshots</a>
-  &nbsp;&nbsp;&nbsp;
 </p>
  
 ## Installation
