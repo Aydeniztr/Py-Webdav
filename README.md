@@ -30,7 +30,7 @@ $ python3 -m pip install -r requirements.txt
 
 ## Usage
 
-This application is too user friendly there is even no costum argumants right now but I will add them as soon as possible.
+This application is too user friendly that there is even no costum argumants right now but I will add them as soon as possible.
 
 <p align="center">
 <br>
