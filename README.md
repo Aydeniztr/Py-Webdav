@@ -7,9 +7,7 @@
    ::.:  :::   : :: ::: :: : ::  :: :  :   :   : :    ::
 ```
 
-<a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg">
-
- <a target="_blank" href="https://aydeniz.tk/chat.html" title="my online chat"><img src="https://img.shields.io/badge/Website%20-Always%20online%20-green.svg">
+<a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg"><a target="_blank" href="https://aydeniz.tk/chat.html" title="my online chat"><img src="https://img.shields.io/badge/Website%20-Always%20online%20-green.svg">
 
 ## Installation
 
