@@ -36,6 +36,8 @@ $ python3 -m pip install -r requirements.txt
 
 ## Screenshots
 
+•taken on w3m (a cli webbrowser)   
+   
 ```
 Directory listing for /
 
