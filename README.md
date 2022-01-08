@@ -14,9 +14,9 @@
   <p align="center">
   <a href="#Installation">Installation</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Usage">Usage</a>
+  <a href="#Screenshots">Usage</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Screenshots">screenshots</a>
+  <a href="#Usage">screenshots</a>
 </p>
  
 ## Installation
